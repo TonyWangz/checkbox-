@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vouchers_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:background="@android:color/white"
+    android:button="@android:color/transparent"
+    android:drawablePadding="125dp"
+    android:drawableRight="@drawable/selector_button"
+    android:textColor="@android:color/black"
+    android:textSize="16dp" >
+
+</CheckBox>
